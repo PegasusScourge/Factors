@@ -1,0 +1,1 @@
+Takes a number and produces a prime factor tree that can be written to file
